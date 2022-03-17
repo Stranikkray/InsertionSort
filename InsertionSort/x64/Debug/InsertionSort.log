@@ -1,0 +1,5 @@
+﻿  InsertionSort.cpp
+D:\C++\Infrmatica\InsertionSort\InsertionSort\InsertionSort.cpp(59,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Infrmatica\InsertionSort\InsertionSort\InsertionSort.cpp(77,23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Infrmatica\InsertionSort\InsertionSort\InsertionSort.cpp(85,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  InsertionSort.vcxproj -> D:\C++\Infrmatica\InsertionSort\x64\Debug\InsertionSort.exe
